@@ -1,0 +1,5 @@
+data/
+.idea/
+tmp/
+key.asc
+pubkey.asc
